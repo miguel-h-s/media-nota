@@ -42,12 +42,18 @@ O objetivo do projeto é praticar conceitos básicos da linguagem Go, como:
 ## 🧪 Exemplo de usos
 
 ======CALCULADORA DE MEDIA DE NOTAS DE ALUNOS======
+
+
 Digite o nome do aluno: Joao
+
+
 Digite 2(duas) notas do aluno:
+
 6
 8
 
 media de Joao: 7.00
+
 aprovado. Continue assim!
 
 ## 📚 Objetivo educacional
