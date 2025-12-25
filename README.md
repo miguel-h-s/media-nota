@@ -50,6 +50,7 @@ Digite o nome do aluno: Joao
 Digite 2(duas) notas do aluno:
 
 6
+
 8
 
 media de Joao: 7.00
